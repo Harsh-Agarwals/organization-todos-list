@@ -1,4 +1,4 @@
-# Getting Started with this homeGURUKUL React App
+# Getting Started with this todo React App for your Organization
 
 In the project directory, you can run:
 
