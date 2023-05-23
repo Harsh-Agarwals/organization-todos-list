@@ -1,0 +1,23 @@
+.form-text {
+    @media screen and (min-width: 576px) {
+        max-width: 70%;
+    }
+    @media screen and (min-width: 768px) {
+        max-width: 50%;
+    }
+    @media screen and (max-width: 576px) {
+        max-width: 70%;
+        margin-right: 0 !important;
+        margin: 0 auto 8px !important;
+    }
+}
+
+.danger {
+    color: red;
+}
+
+.success {
+    color: green;
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+}
